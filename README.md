@@ -96,8 +96,8 @@ import { TextShowcase, TEXT_SHOWCASE_DURATION } from "./scenes/TextAnimations";
   component={TextShowcase}
   durationInFrames={TEXT_SHOWCASE_DURATION}
   fps={30}
-  width={1920}
-  height={1080}
+  width={1280}
+  height={720}
 />
 ```
 
