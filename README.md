@@ -1,11 +1,34 @@
 # Remotion Scenes
 
-🎬 **200+ professional motion graphics scenes** for [Remotion](https://www.remotion.dev/).
+🎬 **201+ professional motion graphics scenes** for [Remotion](https://www.remotion.dev/).
 
 Ready-to-use animation components inspired by After Effects and professional video editing.
 
+<p align="center">
+  <a href="https://lifeprompt-team.github.io/remotion-scenes/">
+    <img src="https://img.shields.io/badge/🎥_Live_Demo-Try_It_Now-6366f1?style=for-the-badge&labelColor=0a0a0a" alt="Live Demo" />
+  </a>
+</p>
+
 [![Live Preview](https://img.shields.io/badge/Live-Preview-6366f1?style=for-the-badge)](https://lifeprompt-team.github.io/remotion-scenes/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/lifeprompt-team/remotion-scenes?style=for-the-badge)](https://github.com/lifeprompt-team/remotion-scenes)
+
+## ✨ Live Demo
+
+**👉 [https://lifeprompt-team.github.io/remotion-scenes/](https://lifeprompt-team.github.io/remotion-scenes/)**
+
+Browse all 201 scenes with live preview player. Try before you use!
+
+## 🎥 Preview
+
+| Text Animations | Theme Animations | Particle Effects |
+|:---------------:|:----------------:|:----------------:|
+| Kinetic, Glitch, Neon, Wave | Cyberpunk, Y2K, Glassmorphism | Confetti, Snow, Fireworks |
+
+| Data Visualization | UI Animations | Transitions |
+|:------------------:|:-------------:|:-----------:|
+| Charts, Gauges, Stats | Buttons, Modals, Toasts | Blinds, Wipe, Morph |
 
 ## 🚀 Quick Start
 
