@@ -75,8 +75,8 @@ export const RemotionRoot = () => {
         component={TextShowcase}
         durationInFrames={TEXT_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Shape Animations (10 scenes) */}
@@ -85,8 +85,8 @@ export const RemotionRoot = () => {
         component={ShapeShowcase}
         durationInFrames={SHAPE_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Transition Animations (10 scenes) */}
@@ -95,8 +95,8 @@ export const RemotionRoot = () => {
         component={TransitionShowcase}
         durationInFrames={TRANSITION_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Data Visualizations (8 scenes) */}
@@ -105,8 +105,8 @@ export const RemotionRoot = () => {
         component={DataShowcase}
         durationInFrames={DATA_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Effect Animations (10 scenes) */}
@@ -115,8 +115,8 @@ export const RemotionRoot = () => {
         component={EffectShowcase}
         durationInFrames={EFFECT_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* UI Animations (10 scenes) */}
@@ -125,8 +125,8 @@ export const RemotionRoot = () => {
         component={UIShowcase}
         durationInFrames={UI_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Logo Animations (10 scenes) */}
@@ -135,8 +135,8 @@ export const RemotionRoot = () => {
         component={LogoShowcase}
         durationInFrames={LOGO_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Background Animations (10 scenes) */}
@@ -145,8 +145,8 @@ export const RemotionRoot = () => {
         component={BackgroundShowcase}
         durationInFrames={BACKGROUND_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Particle Animations (10 scenes) */}
@@ -155,8 +155,8 @@ export const RemotionRoot = () => {
         component={ParticleShowcase}
         durationInFrames={PARTICLE_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Cinematic Animations (10 scenes) */}
@@ -165,8 +165,8 @@ export const RemotionRoot = () => {
         component={CinematicShowcase}
         durationInFrames={CINEMATIC_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Layout Animations (12 scenes) */}
@@ -175,8 +175,8 @@ export const RemotionRoot = () => {
         component={LayoutShowcase}
         durationInFrames={LAYOUT_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Demo Animations (12 scenes) */}
@@ -185,8 +185,8 @@ export const RemotionRoot = () => {
         component={DemoShowcase}
         durationInFrames={DEMO_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* List Animations (12 scenes) */}
@@ -195,8 +195,8 @@ export const RemotionRoot = () => {
         component={ListShowcase}
         durationInFrames={LIST_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Theme Animations (33 scenes) */}
@@ -205,8 +205,8 @@ export const RemotionRoot = () => {
         component={ThemeShowcase}
         durationInFrames={THEME_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Roller Animations (22 scenes) */}
@@ -215,8 +215,8 @@ export const RemotionRoot = () => {
         component={RollerShowcase}
         durationInFrames={ROLLER_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
 
       {/* Liquid Animations (10 scenes) */}
@@ -225,8 +225,8 @@ export const RemotionRoot = () => {
         component={LiquidShowcase}
         durationInFrames={LIQUID_SHOWCASE_DURATION}
         fps={30}
-        width={1920}
-        height={1080}
+        width={1280}
+        height={720}
       />
     </>
   );
