@@ -10,7 +10,7 @@ Ready-to-use animation components inspired by After Effects and professional vid
 
 ## ✨ Live Demo
 
-** [https://lifeprompt-team.github.io/remotion-scenes/](https://lifeprompt-team.github.io/remotion-scenes/)**
+[https://lifeprompt-team.github.io/remotion-scenes/](https://lifeprompt-team.github.io/remotion-scenes/)
 
 Browse all 201 scenes with live preview player. Try before you use!
 
